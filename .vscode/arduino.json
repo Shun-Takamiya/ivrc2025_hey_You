@@ -1,0 +1,5 @@
+{
+    "port": "/dev/tty.debug-console",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560"
+}
