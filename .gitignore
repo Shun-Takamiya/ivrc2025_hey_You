@@ -1,0 +1,8 @@
+# macOSが自動生成するファイル
+.DS_Store
+
+# Visual Studio Codeの設定フォルダ
+.vscode/
+
+# Pythonのキャッシュフォルダ
+__pycache__/
