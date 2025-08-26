@@ -16,7 +16,7 @@ import socket  # UnityへUDP通信を行うため
 # Arduinoが接続されているシリアルポート名を指定します。
 # Macの例: '/dev/tty.usbmodemXXXX'
 # Windowsの例: 'COM3'
-SERIAL_PORT = '/dev/tty.usbmodem1401'
+SERIAL_PORT = '/dev/tty.usbmodem1301'
 BAUD_RATE = 9600  # Arduinoの `Serial.begin()` で設定した値と合わせます。
 
 # ### UnityへのUDP送信設定 ###
